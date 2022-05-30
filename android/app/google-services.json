@@ -1,0 +1,126 @@
+{
+  "project_info": {
+    "project_number": "631686410683",
+    "project_id": "speedy-anthem-299416",
+    "storage_bucket": "speedy-anthem-299416.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:631686410683:android:6b18a136c7df5b75c6149e",
+        "android_client_info": {
+          "package_name": "com.plastkapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "631686410683-j8e4vkldokgkv7h89qdncp315ltdq468.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.plastkapp",
+            "certificate_hash": "6613dc26538f33d0771163a3cab6662673e4f80a"
+          }
+        },
+        {
+          "client_id": "631686410683-mkp1lq0aqnukfgacrrk6cjve2qutufrv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaH_6H2Os5Q5N2o-28o59oli3smHZ9SeQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "631686410683-mkp1lq0aqnukfgacrrk6cjve2qutufrv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "631686410683-d7e23f5mlmirvtm74u4aovmru5vhubub.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.PlastkAppDev"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:631686410683:android:89ee90ae69419b97c6149e",
+        "android_client_info": {
+          "package_name": "com.plastkapp.demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "631686410683-mkp1lq0aqnukfgacrrk6cjve2qutufrv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaH_6H2Os5Q5N2o-28o59oli3smHZ9SeQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "631686410683-mkp1lq0aqnukfgacrrk6cjve2qutufrv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "631686410683-d7e23f5mlmirvtm74u4aovmru5vhubub.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.PlastkAppDev"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:631686410683:android:37ccd95ec0e8afd8c6149e",
+        "android_client_info": {
+          "package_name": "com.plastkapp.uat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "631686410683-mkp1lq0aqnukfgacrrk6cjve2qutufrv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaH_6H2Os5Q5N2o-28o59oli3smHZ9SeQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "631686410683-mkp1lq0aqnukfgacrrk6cjve2qutufrv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "631686410683-d7e23f5mlmirvtm74u4aovmru5vhubub.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.PlastkAppDev"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
